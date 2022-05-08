@@ -27,17 +27,23 @@ Remove duplicates, drop nan rows/columns, rename columns, sort rows
 ### Consolidation Data types and Structures
 ### Numpy, R
 ### Correlation with Linregress, Normal Distributions
+
 ### Visualisation with matplotlib and Seaborn
+
 ### Working with SQL database 
+mysql.connector, create a connection mydb = mysql.connector.connect(), mycursor = mydb.cursor(), mycursor.execute()
 ### Error Handling and testing 
+syntax  - try...except
 ### Decision Tree model 
+Choose own models to test 
 
 ## Projects Contains
-### Movie 
-### Page Views 
-### IBM Watson Tone Analyser
-### Air Quality Mini project
-### Data Exploration
-### Numpy Mini project
-### Sea Level
+- Movie 
+- Page Views 
+- IBM Watson Tone Analyser
+- Air Quality Mini project
+- Data Exploration
+- Numpy Mini project
+- Sea Level
+- Decision Tree Project
   
