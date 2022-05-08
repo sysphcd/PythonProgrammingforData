@@ -4,6 +4,16 @@ This is my programming for Data repository contains a set of worksheets and proj
 Course: Data Analysis using Python, Programming for Data.
 This weekly 1 day course was conducted online by Karen Scott and Lila from Future Coders via video setting where I worked together with others in a team as well as independently.
 
+## Tools we used: 
+-  Slack
+-  spatial.chat
+-  Moodle
+-  Trello 
+-  GitHub
+-  Google shared Drive 
+-  Colab & VSCode
+-  Excel , Python
+
 ## What will you find in this folder?
 contains all the projects, worksheets and datasets where I have demonstrated how I use python for Data Analysis in their respective folders.
 
